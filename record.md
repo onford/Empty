@@ -158,7 +158,10 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 
 ---
 $(a,b,c),a\leq b\leq c,a+b+c=s$。
-$a:0\to\lfloor s/3\rfloor$，$(b,c):(a,s-2a)\to(t,s-2t),t=$
+$a:0\to\lfloor s/3\rfloor$，$(b,c):(a,s-2a)\to(t,s-2t),t=\lfloor s/3\rfloor$
+
+情况数为
+$$\sum_{a=0}^t(t-a+1)=(t+1)+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1Mzk0OTA5LC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjc1OTU4MiwtMjY5ODAyNjQ0XX0=
 -->
