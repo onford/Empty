@@ -166,9 +166,10 @@ $$\sum_{a=0}^t(t-a+1)=(t+1)+t+\cdots+1=(t+1)(t+2)/2$$
 
 - $(A,B,C),A<B<C$：$(0,1,2)+(a,b,c)$
 - $A=B<C$：$\lceil S/3\rceil$
+- $A<B=C$：$$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NDIyODMyLC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDg2OTg5OTYsLTI2OTgwMjY0NF19
 -->
