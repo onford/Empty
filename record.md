@@ -158,7 +158,7 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 
 ---
 $(a,b,c),a\leq b\leq c,a+b+c=s$。
-$a:0\to\lfloor s/3\rfloor$，
+$a:0\to\lfloor s/3\rfloor$，$(b,c):(a,s-2a)\to(t,s-2t),t=$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTkyNzU2NSwtMjY5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbMzQ1Mzk0OTA5LC0yNjk4MDI2NDRdfQ==
 -->
