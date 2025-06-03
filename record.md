@@ -1,148 +1,164 @@
-# 欢迎来到 StackEdit 中文版！
-
-你好！我是你在 **StackEdit中文版** 中的第一个 Markdown 文件。如果你想了解 StackEdit中文版，可以阅读此文章。如果你想玩 Markdown，你也可以编辑此文章。另外，您可以通过打开导航栏左边的**文件资源管理器**来创建新文件。
-
-# 文件
-
-StackEdit中文版 将您的文件存储在您的浏览器中，这意味着您的所有文件都会自动保存在本地并且可以**离线访问！**
-
-## 创建文件和文件夹
-
-使用导航栏左边的文件夹图标可以访问文件资源管理器。您可以通过单击文件资源管理器中的 **创建文件** 图标来创建新文件。您还可以通过单击 **创建文件夹** 图标来创建文件夹。
-
-## 切换到另一个文件
-
-您的所有文件和文件夹在文件资源管理器中都显示为树。您可以通过单击树中的文件从一个文件切换到另一个文件。
-
-## 重命名文件
-
-您可以通过单击导航栏中的文件名或单击文件资源管理器中的**重命名**图标来重命名当前文件。
-
-## 搜索文件
-
-您可以通过单击文件资源管理器中的**搜索文件**图标来通过关键字在整个文档空间中搜索文件。
-
-## 删除一个文件
-
-您可以通过单击文件资源管理器中的 **删除** 图标来删除当前文件。该文件将被移至 **回收站** 文件夹并在 7 天不活动后自动删除。
-
-## 导出文件
-
-您可以通过单击菜单中的 **导入/导出** 来导出当前文件。您可以选择将文件导出为纯 Markdown、使用 Handlebars 模板的 HTML 或 PDF。
-
-
-# 同步
-
-同步是 StackEdit中文版 的最大特点之一。它使您可以将文档空间中的任何文件与存储在**Gitee** 和 **GitHub** 账号中的其他文件同步。这使您可以继续在其他设备上写作，与您共享文件的人协作，轻松集成到您的工作流程中......同步机制在后台每分钟触发一次，下载、合并和上传文件修改。
-
-有两种类型的同步，它们可以相互补充：
-
-- 文档空间同步将自动同步您的所有文件、文件夹和设置。这将允许您在任何其他设备上获取您的文档空间。
-> 要开始同步您的文档空间，只需在菜单中使用 Gitee 登录。
-
-- 文件同步将保持文档空间的一个文件与**Gitee**或**GitHub**中的一个或多个文件同步。
-> 在开始同步文件之前，您必须在**同步**子菜单中链接一个账号。
-
-## 打开一个文件
-
-您可以通过打开 **同步** 子菜单并单击 **从...打开** 从**Gitee** 或 **GitHub** 打开文件。在文档空间中打开后，文件中的任何修改都将自动同步。
-
-## 保存文件
-
-您可以通过打开 **同步** 子菜单并单击 **在...保存** 将文档空间的任何文件保存到**Gitee** 或 **GitHub**。即使文档空间中的文件已经同步，您也可以将其保存到另一个位置。 StackEdit中文版 可以将一个文件与多个位置和账号同步。
-
-## 同步文件
-
-一旦您的文件链接到同步位置，StackEdit中文版 将通过下载/上传任何修改来定期同步它。如有必要，将执行合并并解决冲突。
-
-如果您刚刚修改了文件并且想要强制同步，请单击导航栏中的 **立即同步** 按钮。
-
-> **注意：** 如果您没有要同步的文件，**立即同步**按钮将被禁用。
-
-## 管理文件同步
-
-由于一个文件可以与多个位置同步，您可以通过单击**同步**子菜单中的**文件同步**列出和管理同步位置。这允许您列出和删除链接到您的文件的同步位置。
-
-
-# 发布
-
-在 StackEdit中文版 中发布使您可以轻松地在线发布文件。对文件感到满意后，您可以将其发布到不同的托管平台，例如 **Blogger**、**Gitee**、**Gist**、**GitHub**、**WordPress** 和 **Zendesk**。使用 [Handlebars 模板](http://handlebarsjs.com/)，您可以完全控制导出的内容。
-
-> 在开始发布之前，您必须在**发布**子菜单中链接一个账号。
-
-## 发布文件
-
-您可以通过打开 **发布** 子菜单并单击 **发布到** 来发布您的文件。对于某些位置，您可以选择以下格式：
-
-- Markdown：在可以解释的网站上发布 Markdown 文本（例如**GitHub**），
-- HTML：通过 Handlebars 模板发布转换为 HTML 的文件（例如在博客上）。
-
-## 更新发布
-
-发布后，StackEdit中文版 会将您的文件链接到该发布，这使您可以轻松地重新发布它。一旦您修改了文件并想要更新您的发布，请单击导航栏中的**立即发布**按钮。
-
-> **注意：** 如果您没有要同步的文件，**立即同步**按钮将被禁用。
-
-## 管理文件同步
-
-由于一个文件可以与多个位置同步，您可以通过单击**同步**子菜单中的**文件同步**列出和管理同步位置。这允许您列出和删除链接到您的文件的同步位置。
-
-# Markdown扩展
-
-StackEdit中文版 通过添加额外的 **Markdown扩展** 扩展了标准 Markdown 语法，为您提供了一些不错的功能。
-
-> **提示：** 您可以在 **文件属性** 对话框中禁用任何 **Markdown 扩展名**。
-
-
-## SmartyPants
-
-SmartyPants 将 ASCII 标点字符转换为“智能”印刷标点 HTML 实体。例如：
-
-| |ASCII |HTML |
-|----------------|--------------------------------| ------------------------------|
-|单反引号|`'这不好玩吗？'` |'这不好玩吗？' |
-|引用|`“这不好玩吗？”` |“这不好玩吗？” |
-|破折号 |`-- 是破折号，--- 是破折号`|-- 是破折号，--- 是破折号|
-
-
-## KaTeX
-
-您可以使用 [KaTeX](https://khan.github.io/KaTeX/) 渲染 LaTeX 数学表达式：
-
-满足 $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ 的 *Gamma 函数* 是通过欧拉积分
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> 您可以在 [这里](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) 找到有关 **LaTeX** 数学表达式的更多信息。
-
-
-## UML 图
-
-您可以使用 [Mermaid](https://mermaidjs.github.io/) 渲染 UML 图。例如，这将产生一个序列图：
-
-```mermaid
-sequenceDiagram
-爱丽丝 ->> 鲍勃: 你好鲍勃，你好吗？
-鲍勃-->>约翰: 约翰，你呢？
-鲍勃--x 爱丽丝: 我很好，谢谢！
-鲍勃-x 约翰: 我很好，谢谢！
-Note right of 约翰: 鲍勃想了很长<br/>很长的时间，太长了<br/>文本确实<br/>不能放在一行中。
-
-鲍勃-->爱丽丝: 正在和 John 核对...
-爱丽丝->约翰: 是的……约翰，你好吗？
+# ChallengeX
+建议直接以 lab4_challenge3_shell 的成果为基础，建立 challengeX 分支。
+```bash
+git checkout -b challengeX lab4_challenge3_shell
 ```
+## Lab1 Tips
+### lab1_challenge1
+1. 在 lab1_challenge1 的单核单进程环境中，可以直接将当前进程`current`加载时的`elf_ctx`记录下来。现在 challengeX 是多线程，怎么判定当前进程是加载的哪个 ELF 文件？
+> 参考做法，在`process`结构中增加一个`elf_name`字段，用于记录当前进程是从哪个路径的 ELF 文件加载得到的。
+2. lab1_challenge1 是直地址映射，而现在 challengeX 中用户程序栈帧内部的地址全都是虚拟地址。 
+3. 记得在 Makefile 加上编译选项`-fno-omit-frame-pointer`，不然栈里面找不到 fp。
+4. 千万千万小心内核爆栈。比如不要在内核的函数里面开太大的数组。
 
-这将产生一个流程图：
-
-```mermaid
-graph LR
-A[长方形] -- 链接文本 --> B((圆形))
-A --> C(圆角矩形)
-B --> D{菱形}
-C --> D
+### lab1_challenge2
+1. 我习惯性地用`make run`来测试自己的代码，而在这之前最好还是`make clean;make`一下，这样本来不能过的代码可能就过了。即
+```bash
+make clean;make;make run
 ```
+2. lab2_challenge2 分支的 Makefile 里面，编译选项偷偷加上了`-gdwarf-3`，并未没有在 pke-doc 里面告诉你。我们需要手动在 Makefile 里面加上这个编译选项，以正确生成 .debug_line 段。
+```bash
+CFLAGS := -Wall -Werror -gdwarf-3 -fno-omit-frame-pointer -fno-builtin -nostdlib -D__NO_INLINE__ -mcmodel=medany -g -Og -std=gnu99 -Wno-unused -Wno-attributes -fno-delete-null-pointer-checks -fno-PIE $(march)
+``` 
+
+## Lab2 Tips
+### lab2_challenge1
+比较简单，略。
+### lab2_challenge2
+主要注意一点，在进程fork的时候，相应的内存控制块链表也需要进行复制。
+
+## Lab3 Tips
+### lab3_challenge1
+这个在 lab4_challenge3 里面已经搬运了，因此 challengeX 只需增加用户程序和修改 Makefile 就行。
+### lab3_challenge2
+也没啥需要注意的，最好可以在用户程序`app_semaphore.c`中加 wait 语句，parent 等一下 child0，child0 等一下 child1。因为 parent 的 i 到 10 的时候就直接溜了，child0 和 shell 同时从 BLOCKED 变为 READY，让 child0/child1/shell 并发运行不是很优雅。不等待的话是这样
+```
+going to insert process 13 to ready queue.
+going to schedule process 13 to run.
+Parent print 9
+going to insert process 14 to ready queue.
+User exit with code:0.
+going to insert process 0 to ready queue.
+going to schedule process 14 to run.
+Child0 print 9
+going to insert process 15 to ready queue.
+User exit with code:0.
+going to schedule process 0 to run.
+==========Command End============
+
+User exit with code:0.
+going to schedule process 15 to run.
+Child1 print 9
+User exit with code:0.
+no more ready processes, system shutdown now.
+System is shutting down with exit code 0.
+```
+等的话是这样
+```
+going to insert process 15 to ready queue.
+going to schedule process 15 to run.
+Child1 print 8
+going to insert process 13 to ready queue.
+going to schedule process 13 to run.
+Parent print 9
+going to insert process 14 to ready queue.
+going to schedule process 14 to run.
+Child0 print 9
+going to insert process 15 to ready queue.
+going to schedule process 15 to run.
+Child1 print 9
+User exit with code:0.
+going to insert process 14 to ready queue.
+going to schedule process 14 to run.
+User exit with code:0.
+going to insert process 13 to ready queue.
+going to schedule process 13 to run.
+User exit with code:0.
+going to insert process 0 to ready queue.
+going to schedule process 0 to run.
+==========Command End============
+
+User exit with code:0.
+no more ready processes, system shutdown now.
+System is shutting down with exit code 0.
+```
+### lab3_challege3
+这一关卡了我好久，典中典之 challenge 互相打架。
+1. 子进程的堆在真正被写入数据的时候，相关的虚拟地址会发生 COW，在 pke 中的表现是触发 page fault 让你去处理。由于这个虚拟地址`stval`属于堆段而不属于栈段，lab2_challenge1 的代码会直接杀死比赛。这个问题很好解决，考虑一下如何兼容。
+2. 有一个我自己作出来的问题，在 lab4_challenge2 重载执行的时候，我是把当前进程的堆段给 free 掉了，再装入新的程序内容。其实也可以不这么做，但是做了的话可以省一点物理空间。但是在 challengeX 中，app_cow 是 app_shell 的子进程，根据 lab3_challenge3 的 COW 要求，app_cow 和 app_shell 的堆段对应相同的物理页面，由于 app_shell 还要使用这个堆，所以 app_cow 只能 unmap，不能 free，问题解决。同理，如果你实现了数据段的 COW，然后在重载执行的时候还把进程的数据段所占物理页面 free 掉了，那么在 challengeX 中需要改 free 为 unmap。
+> 一个仍有进程在使用的物理页`va`，如果 free 掉了，那么它里面的内容就可能会被改变，从而导致`((list_node*)va)->next`变成奇怪的物理地址。可能引发的问题是`epc`乱跳，用户程序的执行逻辑莫名其妙，无法解释。
+
+## Lab4 Tips
+### lab4_challenge1
+这一关也卡了我很久，注意函数`strtok`，这是一个实现得非常糟糕的函数。如果对于多个字符串的拆分是穿插进行的，那么就会出现错误。
+举个例子，有两个字符串：
+```c
+char s1[32] = "1!2!3";
+char s2[32] = "a?b?c?d";
+```
+希望打印在控制台的是：
+```
+1
+a b c d
+2
+a b c d
+3
+a b c d
+```
+看看下面的实现逻辑：
+```c
+void print_s2(){
+	char s2_copy[32];
+	strcpy(s2_copy,s2);
+	char *token = strtok(s2_copy,"?");
+	while(token){
+		printu("%s ",token);
+		token = strtok(NULL,"?");
+	}
+}
+
+int main(){
+	char s1_copy[32];
+	strcpy(s1_copy,s1);
+	char *token = strtok(s1_copy,"!"); // token = "1"
+	while(token){
+		printu("%s\n",token);
+		print_s2();
+		token = strtok(NULL,"!"); // 第一次执行到这里，token 是什么？
+	}
+	return 0;
+}
+```
+上面的`main`函数包装隐藏得很好，粗略看一下没有什么问题。但是仔细观察`strtok`的实现，会发现在`main`内第一次执行到第 7 行`token`为`NULL`而不是预期的`"2"`。
+challengeX 在加上 lab4_challenge1 的内容后就有这个问题，首先`app_shell`里面调用了`strtok`，而在执行`app_relativepath`的时候也**有可能使用**`strtok`。那么，`app_shell`接下来再`strtok`就会出错了。
+### lab4_challenge2
+这个其实也包含在 challengeX 里面了，`app_shell`的子进程相当于挑战实验的`app_exec`，而`app_ls`则是与 lab4_challenge3 共有的，所以也不用专门去做。
+### lab4_challenge3
+早就包含在 challengeX 里面了。
+
+## Other Tips
+### 虚拟地址为负数？
+在做加分实验的过程中，有时候会出现用户程序全局变量虚拟地址为负数的情况。这种情况下，你可以使用下面的指令查看一下反汇编。正常情况下（所有的基础实验和挑战实验），编译器是**不会用**全局指针寄存器`gp`的。如果你用 objdump 看到了`gp`，那问题就找到了。
+```bash
+riscv64-unknown-elf-objdump -d ./hostfs_root/bin/app_shell
+```
+问题是什么？问题是编译器偶尔会抽风，使用`gp`寄存器，而我们简陋的 pke 实验显然没有考虑到编译器的这一行为。不信你可以在`app_shell.c`的 main 函数里面查看一下`gp`寄存器的值，绝对是 0。我们需要手动设置一下`gp`的内容，做法是直接在 main 函数开头加上这一句：
+```c
+asm volatile("la gp, __global_pointer$ \n\t");
+```
+问题解决。这里的符号`__global_pointer$`就是给寄存器`gp`进行初始化的，你也可以这样看这个符号的值：
+```bash
+riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_pointer$"
+```
+结果示例：
+```
+25: 00000000000127ba     0 NOTYPE  GLOBAL DEFAULT  ABS __global_pointer$
+```
+> 然而，上面这些方法有时候未必能给 gp 寄存器赋值。实在是太难蹦了你科的 os 实验。
+
+---
+$(a,b,c),a\leq b\leq c,a+b+c=s$。
+$a:0\to\lfloor s/3\rfloor$，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbMTg4MTkyNzU2NSwtMjY5ODAyNjQ0XX0=
 -->
