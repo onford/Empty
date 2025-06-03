@@ -157,11 +157,18 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 > 然而，上面这些方法有时候未必能给 gp 寄存器赋值。实在是太难蹦了你科的 os 实验。
 
 ---
+
+## $(A,B,C),A<B<C$
 $(a,b,c),a\leq b\leq c,a+b+c=s$。
 $a:0\to\lfloor s/3\rfloor$，$(b,c):(a,s-2a)\to(t,s-2t),t=\lfloor s/3\rfloor$
 
 情况数为
-$$\sum_{a=0}^t(t-a+1)=(t+1)+$$
+$$\sum_{a=0}^t(t-a+1)=(t+1)+t+\cdots+1=(t+1)(t+2)/2$$
+
+## $(A,B,C),A<B\leq C$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc1OTU4MiwtMjY5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbNTU1MzE3MTkxLC0yNjk4MDI2NDRdfQ==
 -->
