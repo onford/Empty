@@ -158,19 +158,16 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 
 ---
 
-$(a,b,c),a\leq b\leq c,a+b+c=s$。
-$a:0\to\lfloor s/3\rfloor$，$(b,c):(a,s-2a)\to(t,s-2t),t=\lfloor s/3\rfloor$
-
-情况数为
-$$\sum_{a=0}^t(t-a+1)=(t+1)+t+\cdots+1=(t+1)(t+2)/2$$
-
-- $(A,B,C),A<B<C$：$(0,1,2)+(a,b,c)$，$\lfloor S/3\rfloor\lfloor S/3+1\rfloor/2$
-- $A=B<C$：$\lceil S/3\rceil$
-- $A<B=C$：$\lfloor S/2\rfloor-\lfloor S/3\rfloor$
-- $A=B=C$：$\mathbb I(S\operatorname {mod}3=0)$
+- 2 页个人简历
+- 5 页申请表
+- 2 页成绩单
+- 1 页成绩证明
+- 获奖证明 ：
+	- 1
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTAyMDY0NiwtMjY5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTE3MDQzMjY5MjAsMTg5MTAyMDY0NiwtMj
+Y5ODAyNjQ0XX0=
 -->
