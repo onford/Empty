@@ -163,11 +163,17 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 - 2 页成绩单
 - 1 页成绩证明
 - 获奖证明 ：
-	- 1
+	- 1 CSP
+	- 3 蓝桥
+	- 1 美赛
+	- 1 数竞
+	- 1 自强
+	- 2 三好
+	- 1 国奖
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQzMjY5MjAsMTg5MTAyMDY0NiwtMj
-Y5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbMTI4NTQwMDExNSwxODkxMDIwNjQ2LC0yNj
+k4MDI2NDRdfQ==
 -->
