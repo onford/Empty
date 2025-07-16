@@ -159,7 +159,7 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 ---
 
 - 2 页个人简历
-- 5 页申请表
+- 4 页申请表
 - 2 页成绩单
 - 1 页成绩证明
 - 获奖证明 ：
@@ -174,6 +174,6 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTQwMDExNSwxODkxMDIwNjQ2LC0yNj
-k4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTE1NjE1NjAzMzQsMTI4NTQwMDExNSwxOD
+kxMDIwNjQ2LC0yNjk4MDI2NDRdfQ==
 -->
