@@ -170,10 +170,10 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 	- 1 自强
 	- 2 三好
 	- 1 国奖
-
+- total: 19
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE1NjAzMzQsMTI4NTQwMDExNSwxOD
-kxMDIwNjQ2LC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTE5NTc4MDMxNSwtMTU2MTU2MDMzNCwxMj
+g1NDAwMTE1LDE4OTEwMjA2NDYsLTI2OTgwMjY0NF19
 -->
