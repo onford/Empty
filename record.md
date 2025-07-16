@@ -167,13 +167,15 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 	- 3 蓝桥
 	- 1 美赛
 	- 1 数竞
+	- 1 天梯赛
 	- 1 自强
 	- 2 三好
 	- 1 国奖
-- total: 19
+- total: 20
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTc4MDMxNSwtMTU2MTU2MDMzNCwxMj
-g1NDAwMTE1LDE4OTEwMjA2NDYsLTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbMTM2OTk2NTIyNiwxMTk1NzgwMzE1LC0xNT
+YxNTYwMzM0LDEyODU0MDAxMTUsMTg5MTAyMDY0NiwtMjY5ODAy
+NjQ0XX0=
 -->
