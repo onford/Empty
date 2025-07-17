@@ -176,14 +176,17 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 ---
 # 保研面谈（15-20min）
 ## 个人介绍
-尊敬的各位专家老师，大家好。我叫王锐，目前就读于武汉的华中科技大学，非常荣幸nen
+> 思路：可以围绕提交给专家组的材料展开，简单让p
+
+尊敬的各位专家老师，大家好。我叫王锐，目前就读于武汉的华中科技大学，非常荣幸能够有机会参加上海交通大学计算机学院的面试。接下来我将简单介绍一下自己：
+我本科选修的专业是
 
 ## 英语问答（外语口语和听力）
 
 ## 综合问答（专业基础能力；科研综合能力和发展潜力；综合能力）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY5Nzk5ODksMTM2OTk2NTIyNiwxMT
+eyJoaXN0b3J5IjpbLTE2NzY4NTg2OTEsMTM2OTk2NTIyNiwxMT
 k1NzgwMzE1LC0xNTYxNTYwMzM0LDEyODU0MDAxMTUsMTg5MTAy
 MDY0NiwtMjY5ODAyNjQ0XX0=
 -->
