@@ -183,13 +183,14 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 本科期间我还参加了许多竞赛，包括全国大学生数学竞赛、美国大学生数学建模竞赛，以及后续的一系列算法比赛。数学竞赛和建模竞赛提高了我的数学思维、建模和理性思考能力，而各种算法竞赛在提升我编程思维、算法思维的过程中，也带我熟悉了C++/Python两种不同语言的编程方式，体会不同语言的设计之美。
 因为有成绩和竞赛的加成，我在本科期间获得了一些奖项，包括大一时的自强奖学金，大二时的校三好学生奖学金，大三时的校三好学生奖学金和国家奖学金。这些奖学金是对我不懈努力的认可，也化作了我前行路上的动力。
 本科期间我还做了许多科研。我认为最早的科研是美国大学生数学建模竞赛，这是一个团队比赛，当时我和其他两位同学利用寒假前半个月的时间，留在学校进行准备；拿到赛题的时候立刻组织讨论，围绕问题提出idea，构建框架，分工合作，奋斗三个日夜完成了论文的撰写和提交。我享受这种思考问题、提出自己的解法的过程，享受这种把一个idea用系统严谨的latex论文表述出来的美感。随后有两个课程设计，硬件综合训练和操作系统课程设计，我从中都获取了很多经验，得到了很多心得。进入武汉国家广电研究中心，我先参加了一个基于tinykv的暑期项目，获得关于分布式数据库的大致理解；然后在实验室实习，协助师兄发表了一篇B会论文（europar），获得有关分布式大模型训练的理解。
+在经过这些科研之后，我感觉自己的兴趣还是落在系统结构研究，而非分布式系统。
 
 ## 英语问答（外语口语和听力）
 
 ## 综合问答（专业基础能力；科研综合能力和发展潜力；综合能力）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjU1NTY4MSwtMTQ3MTQ5MTg5NSwxMz
-Y5OTY1MjI2LDExOTU3ODAzMTUsLTE1NjE1NjAzMzQsMTI4NTQw
-MDExNSwxODkxMDIwNjQ2LC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTE1OTYwNTkzMzksLTE0NzE0OTE4OTUsMT
+M2OTk2NTIyNiwxMTk1NzgwMzE1LC0xNTYxNTYwMzM0LDEyODU0
+MDAxMTUsMTg5MTAyMDY0NiwtMjY5ODAyNjQ0XX0=
 -->
