@@ -173,9 +173,11 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 	- 1 国奖
 - total: 20
 
+---
+面试自我介绍
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTk2NTIyNiwxMTk1NzgwMzE1LC0xNT
-YxNTYwMzM0LDEyODU0MDAxMTUsMTg5MTAyMDY0NiwtMjY5ODAy
-NjQ0XX0=
+eyJoaXN0b3J5IjpbLTIzNDEyNTczMSwxMzY5OTY1MjI2LDExOT
+U3ODAzMTUsLTE1NjE1NjAzMzQsMTI4NTQwMDExNSwxODkxMDIw
+NjQ2LC0yNjk4MDI2NDRdfQ==
 -->
