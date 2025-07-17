@@ -181,14 +181,14 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 尊敬的各位专家老师，大家好。我叫王锐，目前就读于武汉的华中科技大学，非常荣幸能够有机会参加上海交通大学计算机学院的面试。接下来我将简单介绍一下自己：
 我本科选修的专业是计算机科学与技术，本科前五个学期的加权成绩名列前茅，加权排名位于专业的前3%。本科期间我在数据结构、数据库系统原理、操作系统、组成原理、编译原理等专业核心课程中均取得了优异的成绩。
 本科期间我还参加了许多竞赛，包括全国大学生数学竞赛、美国大学生数学建模竞赛，以及后续的一系列算法比赛。数学竞赛和建模竞赛提高了我的数学思维、建模和理性思考能力，而各种算法竞赛在提升我编程思维、算法思维的过程中，也带我熟悉了C++/Python两种不同语言的编程方式，体会不同语言的设计之美。
-因为有成绩和竞赛的加成，我在本科期间获得了一些奖项，包括大一时的自强奖学金，大二时的校三好学生奖学金，大三时的校三好学生奖学金和国家奖学金。
+因为有成绩和竞赛的加成，我在本科期间获得了一些奖项，包括大一时的自强奖学金，大二时的校三好学生奖学金，大三时的校三好学生奖学金和国家奖学金。这些奖学金是d
 
 ## 英语问答（外语口语和听力）
 
 ## 综合问答（专业基础能力；科研综合能力和发展潜力；综合能力）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMyNzY5MDEsLTE0NzE0OTE4OTUsMT
-M2OTk2NTIyNiwxMTk1NzgwMzE1LC0xNTYxNTYwMzM0LDEyODU0
-MDAxMTUsMTg5MTAyMDY0NiwtMjY5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbMTYyMjQ0Mjg5NSwtMTQ3MTQ5MTg5NSwxMz
+Y5OTY1MjI2LDExOTU3ODAzMTUsLTE1NjE1NjAzMzQsMTI4NTQw
+MDExNSwxODkxMDIwNjQ2LC0yNjk4MDI2NDRdfQ==
 -->
