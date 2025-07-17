@@ -174,15 +174,16 @@ riscv64-unknown-elf-readelf -s ./hostfs_root/bin/app_shell | grep -F "__global_p
 - total: 20
 
 ---
-# 保研面谈
+# 保研面谈（15-20min）
 ## 个人介绍
+
 
 ## 英语问答（外语口语和听力）
 
 ## 综合问答（专业基础能力；科研综合能力和发展潜力；综合能力）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYxNzEzNTIsMTM2OTk2NTIyNiwxMT
+eyJoaXN0b3J5IjpbLTE4OTk4MzE3MzIsMTM2OTk2NTIyNiwxMT
 k1NzgwMzE1LC0xNTYxNTYwMzM0LDEyODU0MDAxMTUsMTg5MTAy
 MDY0NiwtMjY5ODAyNjQ0XX0=
 -->
